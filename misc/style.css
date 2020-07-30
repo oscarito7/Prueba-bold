@@ -1,0 +1,48 @@
+
+/*Estilos del toolbar*/
+/*Estilo de los botones del toolbar*/
+.btn_toolbar{
+	font-size: 45px !important;
+	color: #FFF;
+}
+.btn-agregar{
+	background-color: #1c7430;
+	width: 140px;
+	text-align: center;
+}
+.texto1{
+	margin-bottom: 4rem;
+}
+/*Estilo del div toolbar*/
+.toolbar{
+	background-color: #47426E;
+	padding: 20px;
+}
+.toolbar-text{
+	font-size: 25px;
+	color: white;
+}
+
+/*Listado de usuarios*/
+.btn_edit{
+	color: #E89410;
+	font-size: 20px !important;
+}
+
+.btn_delete{
+	color: #FD4F3D;
+	font-size: 20px !important;
+}
+
+/*Estilos nav-bar*/
+.nav-bar{
+	background-color: #32383e !important;
+}
+
+.list-items{
+	color: #c8c8c8 !important;
+}
+
+.row_margin_top{
+	margin-top: 5px;
+}
