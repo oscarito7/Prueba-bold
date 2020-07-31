@@ -1,1 +1,1 @@
-# Prueba-bold realizada con php7 orientado a objetos y bajo el patron Modelo vista controlador. implementando JavaScript, Ajax, font Aweson, Css y el Framework bootstrap incluyen los diagramas ER y el diagrama de arquitectura del sistema
+# Prueba-bold realizada con php7 orientado a objetos y bajo el patron Modelo vista controlador. implementando JavaScript, Ajax, font Aweson, Css y el Framework bootstrap y con media Query para que sea Responsive,incluyen los diagramas ER y el diagrama de arquitectura del sistema
