@@ -1,6 +1,14 @@
 
 <?php
-
+include_once 'config/user.php';
+include_once 'config/user_session.php';
+if(isset($_SESSION['user'])){
+    echo "session";
+}else if(isset($_POST['username']) && isset($_POST['password'])){
+    echo "validacion";
+}else{
+    echo "Login";
+}
 define('HOMEDIR', __DIR__);
 
 include 'views/header.php';
