@@ -3,7 +3,7 @@
 <div class="container-fluid">
 	<div class="row">
 		<div class="col text-center">
-			<p>Prueba Bold</p>
+			<p>Prueba desarrollo. Bold</p>
 
 		</div>
 	</div>
